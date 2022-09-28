@@ -1,1 +1,7 @@
-# primeiroe_3t
+# Terceiro Trimestre
+
+## indentificaçao
+Hiago Luccas - Nr. 21
+
+## Conteudo
+HTML, CSS e JavaScript
